@@ -2,8 +2,8 @@
 
 https://github.com/GDYan/useapi/
 ##返回当前主机的所有用户名
- ##创建一个新用户
- ##删除一个用户
+##创建一个新用户
+##删除一个用户
 #####python3.6.8
 #####django2.0
 #####django-rest-framework
