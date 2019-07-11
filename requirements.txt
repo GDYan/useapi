@@ -1,0 +1,6 @@
+使用python3.6+Django2.0进行来开发
+依赖的包有 ：
+	curl=7.64.1
+	djangorestframework=3.9.4
+	sqlite=3.28.0
+	

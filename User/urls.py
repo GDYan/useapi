@@ -19,8 +19,6 @@ from api import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('users/', views.UserAPI.as_view()),
-    # path('', views.get_all_name),
-    # path('allnames/', views.get_all_name),
-    # path('users/', views.save_user),
+
 
 ]
