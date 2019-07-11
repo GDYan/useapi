@@ -18,4 +18,4 @@ userapi
 
 GitHub Address
 ---
-`https://github.com/GDYan/useapi/`
+`https://github.com/GDYan/userapi/`
